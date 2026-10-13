@@ -4,7 +4,7 @@
 
 A free Windows helper for League of Legends champ select. When champ select starts, it finds the enemy team and shows a scouting dashboard in your browser: who to ban, each enemy's strengths and weaknesses, how they play the champion they lock in, and the enemy jungler's usual early path.
 
-**[⬇ Download the latest version](../../releases/latest)** · Windows 10 / 11 · Free
+**[⬇ Download the latest version](https://github.com/Biscuitables/Ranked-5s/releases/latest)** · Windows 10 / 11 · Free
 
 ![Dashboard](docs/images/dashboard.jpg)
 
@@ -22,7 +22,7 @@ A free Windows helper for League of Legends champ select. When champ select star
 
 ## How to use it
 
-1. Download **Ranked5sBanAdvisor.zip** from [Releases](../../releases/latest), right-click it → **Extract All**.
+1. Download **Ranked5sBanAdvisor.zip** from [Releases](https://github.com/Biscuitables/Ranked-5s/releases/latest), right-click it → **Extract All**.
 2. Open League of Legends, then double-click **Ranked5sBanAdvisor.exe**.
 3. Windows may show "Windows protected your PC" because the app isn't code-signed. Click **More info** → **Run anyway**.
 4. Your browser opens the dashboard. Queue up; it fills in when champ select starts.
